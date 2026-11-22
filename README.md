@@ -2,7 +2,7 @@
 
 **Machine Learning | Data Science | Mathematics**
 
-MSc Data Science and Analytics Student with experience developing machine learning models, analysing complex datasets and applying computational methods to practical problems.
+MSc Data Science and Analytics Student and BSc Mathematics Graduate with experience developing machine learning models, analysing complex datasets and applying computational methods to practical problems.
 My interests include applied machine learning, deep learning, statistical modelling and software development, particularly within engineering and technology.
 
 ## Technical Skills
